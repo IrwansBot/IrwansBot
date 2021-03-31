@@ -34,3 +34,53 @@
 👥 JOIN TO MY GROUP [Group](https://chat.whatsapp.com/II2YSfNHxfR8HBWr5MjngB)
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
+
+## Another Pin Project
+
+<details>
+
+  <summary>Free Rest API Open Source</summary>
+
+<a href="https://github.com/Zhirrr/Zhirrr-Api">
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Zhirrr-Api">
+
+  </a>
+
+   <a href="https://github.com/Zhirrr/Textmaker-Api">
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Textmaker-Api">
+
+  </a>
+
+   <a href="https://github.com/Zhirrr/Python-Flask-Api">
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Python-Flask-API">
+
+  </a>
+
+</details>
+
+<details>
+
+<summary>My Application Project</summary>
+
+<a href="https://github.com/Zhirrr/PyCodes-App">
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=PyCodes-App">
+
+  </a>
+
+</details>
+
+<details>
+
+  <summary>My Official NPM Package</summary>
+
+   <a href="https://github.com/IrwansBot/">
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrwansBot&repo=Zhirrr">
+
+  </a>
+
+</details>
