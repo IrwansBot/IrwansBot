@@ -1,6 +1,16 @@
 <h1 align="center">Hallo Gays <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>IrwanS Bot was here...</h1>
 
 <p align="center">
+<a href="#"><img title="IrwanS API" src="https://img.shields.io/badge/IrwanS API-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/IrwansBot"><img title="Author" src="https://img.shields.io/badge/Author-IrwanS-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align='center'>
+   <a href="https://wa.me/6282264451050"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+</P>
+
+<p align="center">
   <img src="https://i.ibb.co/85KmvXQ/20210313-045330.jpg" />
 </p>
 
